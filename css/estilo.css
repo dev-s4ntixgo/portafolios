@@ -3,7 +3,7 @@
 body {
       margin: 0;
         background: linear-gradient(rgba(20, 18, 24, 0.801), rgba(3, 2, 3, 0.6)),
-              url('../images/fnd.png') no-repeat center center / cover;
+              url('./images/fnd.png') no-repeat center center / cover;
       backdrop-filter: blur(2px);
       color: aliceblue;
       font-family: 'Rubik', sans-serif;
